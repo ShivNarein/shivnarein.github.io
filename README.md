@@ -1,2 +1,1 @@
-# shivnarein.github.io
-A look into my portfolio
+# Visit shivnarein.github.io!
