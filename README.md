@@ -1,2 +1,2 @@
 # shivnarein.github.io
-a look into my portfolio
+A look into my portfolio
